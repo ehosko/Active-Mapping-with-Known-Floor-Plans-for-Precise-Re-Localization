@@ -36,7 +36,7 @@ the 2D floor plan could not be exploited to its full potential.
 This project is built and run on Ubuntu 18.04 using ROS Melodic.
 
 ### Install
-To install the different components of the framework, follow the descriptions in the respective READMEs of the components above. The [Floor Plan Inclusion](https://github.com/ehosko/localization_using_floorplans) is automatically installed with the [Main framework structure](https://github.com/ehosko/optimal_active_guidance_in_mixed_reality_using_prior_floorplans), so there is no need for an extra installation. In the end, the framework should consist of three catkin workspaces, one for the main framework and the floor plan inclusion, one for maplab, and one for the evaluation.
+To install the different components of the framework, follow the descriptions in the respective READMEs of the components above. The [Floor Plan Inclusion](https://github.com/ehosko/localization_using_floorplans) is automatically installed with the [Main framework structure](https://github.com/ehosko/optimal_active_guidance_in_mixed_reality_using_prior_floorplans), so there is no need for an extra installation. Follow the installation given for maplab and the evaluation, but replace the repository URL with the forked URL from above, when cloning. In the end, the framework should consist of three catkin workspaces, one for the main framework and the floor plan inclusion, one for maplab, and one for the evaluation.
 
 ### Simulation Environments
 Two simulation environments, a maze, and a warehouse, are made available for Isaac Sim : [Environments](https://polybox.ethz.ch/index.php/s/SPR7wtBlBgyCn26)
