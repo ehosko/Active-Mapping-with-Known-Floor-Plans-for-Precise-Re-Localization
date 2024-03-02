@@ -29,7 +29,7 @@ the 2D floor plan could not be exploited to its full potential.
 ## Components
 - [Main framework structure](https://github.com/ehosko/optimal_active_guidance_in_mixed_reality_using_prior_floorplans)
 - [maplab](https://github.com/ehosko/maplab)
-- [Floor Plan Inclusion](https://github.com/ehosko/localization_using_floorplans)
+- [Floor Plan Localization](https://github.com/ehosko/localization_using_floorplans)
 - [Evaluation](https://github.com/ehosko/rpg_trajectory_evaluation)
 
 ## Setup
